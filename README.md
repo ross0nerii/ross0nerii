@@ -1,5 +1,13 @@
 ### Hi there 👋 I'm Ross!
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ross0nerii&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75RBqv1/giphy.gif" width="200" />
+</div>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ross0nerii&layout=compact&theme=radical&hide_border=true)
+---
+
+### 📊 My Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ross0nerii&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ross0nerii&layout=compact&theme=dark&hide_border=true)
